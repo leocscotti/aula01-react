@@ -13,6 +13,9 @@ export default function Cabecalho() {
           <li>
             <Link to="/produtos">PRODUTOS</Link>
           </li>
+          <li>
+            <Link to="cadastrar/produtos">CADASTRAR PRODUTOS</Link>
+          </li>
 
         </ul>
       </header>
